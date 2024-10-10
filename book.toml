@@ -1,0 +1,14 @@
+[book]
+title = "The Miner MF-FC Book"
+
+[output.html]
+curly-quotes = true
+no-section-label = true
+git-repository-url = "https://github.com/MinerFirst/mf-fcs"
+site-url = "/mf-fcs/"
+
+[output.html.search]
+heading-split-level = 0
+
+[output.html.playground]
+runnable = false
